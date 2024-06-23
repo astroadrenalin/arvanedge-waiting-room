@@ -1,0 +1,19 @@
+{
+  "name": "waiting-room-worker",
+  "version": "1.0.0",
+  "description": "ArvanCloud worker for handling a waiting room",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "cookie": "^0.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.76.0",
+    "webpack-cli": "^4.10.0",
+    "babel-loader": "^9.1.0"
+
+  }
+}
+
